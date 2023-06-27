@@ -2,6 +2,11 @@ using Forms_do_Windows_com_CSharp.Classes;
 
 namespace Forms_do_Windows_com_CSharp
 {
+    /*
+    Objetivo: desenvolver um CRUD de usuários com Windows forms.
+    Abandonando assim, a dependência do uso de console
+
+     */
     public partial class Form1 : Form
     {
         public Form1()
