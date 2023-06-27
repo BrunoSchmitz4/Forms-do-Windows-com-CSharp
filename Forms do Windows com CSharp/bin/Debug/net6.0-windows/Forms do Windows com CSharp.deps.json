@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Forms do Windows com CSharp/1.0.0": {
+        "runtime": {
+          "Forms do Windows com CSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Forms do Windows com CSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Estágio 2 - CSharp\Forms do Windows com CSharp\Forms do Windows com CSharp\bin\Debug\net6.0-windows\Forms do Windows com CSharp.exe
+C:\Estágio 2 - CSharp\Forms do Windows com CSharp\Forms do Windows com CSharp\bin\Debug\net6.0-windows\Forms do Windows com CSharp.deps.json
+C:\Estágio 2 - CSharp\Forms do Windows com CSharp\Forms do Windows com CSharp\bin\Debug\net6.0-windows\Forms do Windows com CSharp.runtimeconfig.json
+C:\Estágio 2 - CSharp\Forms do Windows com CSharp\Forms do Windows com CSharp\bin\Debug\net6.0-windows\Forms do Windows com CSharp.dll
+C:\Estágio 2 - CSharp\Forms do Windows com CSharp\Forms do Windows com CSharp\bin\Debug\net6.0-windows\Forms do Windows com CSharp.pdb
+C:\Estágio 2 - CSharp\Forms do Windows com CSharp\Forms do Windows com CSharp\obj\Debug\net6.0-windows\Forms do Windows com CSharp.csproj.AssemblyReference.cache
+C:\Estágio 2 - CSharp\Forms do Windows com CSharp\Forms do Windows com CSharp\obj\Debug\net6.0-windows\Forms_do_Windows_com_CSharp.Form1.resources
+C:\Estágio 2 - CSharp\Forms do Windows com CSharp\Forms do Windows com CSharp\obj\Debug\net6.0-windows\Forms do Windows com CSharp.csproj.GenerateResource.cache
+C:\Estágio 2 - CSharp\Forms do Windows com CSharp\Forms do Windows com CSharp\obj\Debug\net6.0-windows\Forms do Windows com CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estágio 2 - CSharp\Forms do Windows com CSharp\Forms do Windows com CSharp\obj\Debug\net6.0-windows\Forms do Windows com CSharp.AssemblyInfoInputs.cache
+C:\Estágio 2 - CSharp\Forms do Windows com CSharp\Forms do Windows com CSharp\obj\Debug\net6.0-windows\Forms do Windows com CSharp.AssemblyInfo.cs
+C:\Estágio 2 - CSharp\Forms do Windows com CSharp\Forms do Windows com CSharp\obj\Debug\net6.0-windows\Forms do Windows com CSharp.csproj.CoreCompileInputs.cache
+C:\Estágio 2 - CSharp\Forms do Windows com CSharp\Forms do Windows com CSharp\obj\Debug\net6.0-windows\Forms do Windows com CSharp.dll
+C:\Estágio 2 - CSharp\Forms do Windows com CSharp\Forms do Windows com CSharp\obj\Debug\net6.0-windows\refint\Forms do Windows com CSharp.dll
+C:\Estágio 2 - CSharp\Forms do Windows com CSharp\Forms do Windows com CSharp\obj\Debug\net6.0-windows\Forms do Windows com CSharp.pdb
+C:\Estágio 2 - CSharp\Forms do Windows com CSharp\Forms do Windows com CSharp\obj\Debug\net6.0-windows\Forms do Windows com CSharp.genruntimeconfig.cache
+C:\Estágio 2 - CSharp\Forms do Windows com CSharp\Forms do Windows com CSharp\obj\Debug\net6.0-windows\ref\Forms do Windows com CSharp.dll
